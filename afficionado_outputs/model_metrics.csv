@@ -1,0 +1,8 @@
+Model,MAE,RMSE,MAPE (%),Accuracy (%)
+XGBoost,310.39,623.64,6.97,93.03
+Gradient Boosting,356.85,721.08,8.03,91.97
+Facebook Prophet,461.67,842.64,10.38,89.62
+Exp. Smoothing (Holt-Winters),532.82,985.38,12.08,87.92
+Moving Average (7-day),659.92,1282.49,14.93,85.07
+"SARIMA(1,1,1)(1,1,0)[7]",678.52,1148.47,15.47,84.53
+Naïve Forecast,799.79,1472.58,18.13,81.87

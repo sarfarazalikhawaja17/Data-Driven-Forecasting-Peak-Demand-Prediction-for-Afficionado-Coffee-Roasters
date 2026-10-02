@@ -235,8 +235,8 @@ Being upfront about scope makes the results easier to trust and extend.
 
 ## Author
 
-**Your Name**
-Sarfaraz Ali
+**Sarfaraz Ali**
+
 
 <div align="center">
 
